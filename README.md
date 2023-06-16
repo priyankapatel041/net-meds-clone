@@ -2,7 +2,7 @@
 Netmeds is a online pharmacy where you can buy medicines.
 
 - Tech Stack :
-***HTML | CSS | Javascript***
+**HTML | CSS | Javascript**
 
 Features
 =======
