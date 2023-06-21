@@ -1,4 +1,4 @@
-# Netmeds-Clone
+## Netmeds-Clone
 Netmeds is a online pharmacy where you can buy medicines.
 
 - Tech Stack :
