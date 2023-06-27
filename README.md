@@ -1,5 +1,5 @@
 ## Netmeds-Clone
-Netmeds is a online pharmacy where you can buy medicines.
+Netmeds is an online pharmacy where you can buy medicines.
 
 - Tech Stack :
 **HTML | CSS | Javascript**
@@ -7,13 +7,13 @@ Netmeds is a online pharmacy where you can buy medicines.
 Features
 =======
 
->- Home Page & Navbar
->- Login / Register functionality
->- Products List Page
->- Various types of filtering & sorting
->- Products Details Page
->- Cart Page
->- Shiping Page
+- Home Page & Navbar
+- Login / Register functionality
+- Products List Page
+- Various types of filtering & sorting
+- Products Details Page
+- Cart Page
+- Shipping Page
 
 ***Home Page***
 ==============
@@ -45,20 +45,20 @@ You can also try out the filtering and sorting features according to your need t
 ***Products Details Page***
 ====
 
-Product Details Page the full details of a product, in this page you will be able to see the price , name of the product , image , offer price, delivery details , return and more. You can also add the product to cart or add to Dream Box for future purchase. 
+Product Details Page the full details of a product, in this page you will be able to see the price , name of the product, image, offer price, delivery details , return and more. You can also add the product to cart or Dream Box for future purchases. 
 ![Screenshot (18)](https://user-images.githubusercontent.com/103952018/194708214-34040cc6-86a0-4823-a361-d3d22fe13f4d.png)
 
 ***Cart Page***
 ====
 
 In the Cart Page you can see the products that you have selected to buy, you can add multiple quantity of the products as per your need.
-If you don't need a selected product you can delete , Coupon code can be added and the grand sum will reflect according to the changes that you have made.
+If you don't need a selected product you can delete it, a Coupon code can be added and the grand sum will reflect according to the changes that you have made.
 ![Screenshot (19)](https://user-images.githubusercontent.com/103952018/194708254-392cd2ae-b65a-4632-83d4-60a6e6825931.png)
 
 ***Shiping Page***
 =====
 
-The final step is to provide your correct shipping , payment details and you have successfully shopped your favourite product.The product will arrive at you door step by the date mentioned.
+The final step is to provide your correct shipping and payment details and you have successfully shopped for your favorite product. The product will arrive at your doorstep by the date mentioned.
 ![Screenshot (20)](https://user-images.githubusercontent.com/103952018/194708303-d1412516-90ab-4052-8fc7-c966ec0b75bf.png)
 
 
